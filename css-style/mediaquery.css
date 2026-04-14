@@ -1,0 +1,15 @@
+@media screen and (max-width: 576px) {
+    nav{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .banner-image img{
+        width: 90%;
+    }
+    .banner{
+        width: 500px;
+    }
+    .banner h1{
+        font-size: 50px;
+    }
+}
