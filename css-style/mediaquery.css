@@ -12,4 +12,15 @@
     .banner h1{
         font-size: 50px;
     }
+    .features{
+        flex-direction: column;
+        width: 100%;
+    }
+    .features-sec-left{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .features-sec-right{
+        text-align: center;
+        padding: 40px 10px 0px;
+    }
 }
