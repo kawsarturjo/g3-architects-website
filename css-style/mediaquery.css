@@ -7,7 +7,7 @@
         width: 90%;
     }
     .banner{
-        width: 500px;
+        width: 100%;
     }
     .banner h1{
         font-size: 50px;
@@ -22,5 +22,6 @@
     .features-sec-right{
         text-align: center;
         padding: 40px 10px 0px;
+        width: 100%;
     }
 }
